@@ -10,5 +10,8 @@ public class Main {
         String fullName = "";
         fullName = lastName + " " + firstName + " " + middleName;
         System.out.println(fullName);
+
+        System.out.println("Задача 2");
+        System.out.println(fullName.toUpperCase());
     }
 }
