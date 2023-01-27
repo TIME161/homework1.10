@@ -8,8 +8,7 @@ public class Main {
         String firstName = "Ivan";
         String middleName = "Ivanovich";
         String lastName = "Ivanov";
-        String fullName = "";
-        fullName = lastName + " " + firstName + " " + middleName;
+        String fullName = lastName + " " + firstName + " " + middleName;
         System.out.println(fullName);
 
         System.out.println("Задача 2");
